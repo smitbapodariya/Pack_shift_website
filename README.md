@@ -1,2 +1,2 @@
-# Pack_shift_website
-i make the pack shift website using a html css 
+# Pack_Shifts
+ This is Product Shifting website refrence from porter. This is for practice purpose using HTML & CSS.
